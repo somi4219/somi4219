@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Nam%20Somi)
 ### Welcome 👋
 #
+<div align="center">
 ![Somi's github stats](https://github-readme-stats.vercel.app/api?username=somi4219&show_icons=true&theme=buefy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somi4219&layout=compact&theme=buefy)
-
+</div>
 <!--
 **somi4219/somi4219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
