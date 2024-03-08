@@ -1,19 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Nam%20Somi)
-### Welcome 👋
-#
+# Welcome 👋
+-------------
+I'm interested in Frontend!
+I'm always learning and growing.
+## 🐰About me🐰
+-------------
+* Department of Software Engineering, Gachon University (2021.03~)
+* The Student Council of the Software Engineering Department, Gachon University (2021.03~2023.12)
+* Research Assistant in Intelligent System Software Research Lab (2023.03 ~ 2024.03)
+* Internship at Irvine Tech Hub in California, Irvine (2024.01~2024.02)
+
+## 🏆Career🏆
+-------------
+* 11th K-Hackathon Excellence Award Winner (Development of Indoor Voice Map for the Visually Impaired)
+* ACK 2023 Outstanding Paper Award Winner (Development of UWB-Based Indoor Navigation App)
+
+## 🛠️Tech Stack🛠️
+-------------
+Frontend
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+
+Backend
+Database
+Tools
+## Find me at
+-------------
+
 ![Somi's github stats](https://github-readme-stats.vercel.app/api?username=somi4219&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somi4219&layout=compact&theme=buefy)
-<!--
-**somi4219/somi4219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
