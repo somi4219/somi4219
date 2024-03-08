@@ -15,20 +15,20 @@
 ## 🛠️Tech Stack🛠️
 Frontend  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Webgl-#990000?style=flat-square&logo=webgl&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Webgl-990000?style=flat-square&logo=webgl&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>  
 Backend  
-<img src="https://img.shields.io/badge/JAVA-#007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>  
 Database  
-<img src="https://img.shields.io/badge/Firebase-#FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>  
 Tools  
-<img src="https://img.shields.io/badge/VisualStudio-#5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-#F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AndroidStudio-#3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>  
 
 ## 📞Find me at⬇️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:somi4219@gmail.com)](mailto:somi4219@gmail.com)
