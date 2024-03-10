@@ -29,7 +29,7 @@ Tools
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>  
 
-## 📞Find me at⬇️
+## ⬇️Find me at⬇️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:somi4219@gmail.com)](mailto:somi4219@gmail.com)
 <a href="https://instagram.com/ns0mmy">
     <img 
