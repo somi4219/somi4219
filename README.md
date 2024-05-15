@@ -6,8 +6,9 @@
 ## 🐰About me🐰
 * Department of Software Engineering, Gachon University (2021.03~)
 * The Student Council of the Software Engineering Department, Gachon University (2021.03~2023.12)
-* Research Assistant in Intelligent System Software Research Lab (2023.03 ~ 2024.03)
+* Research Assistant in Intelligent System Software Research Lab (2023.03~2024.03)
 * Internship at Irvine Tech Hub in California, Irvine (2024.01~2024.02)
+* 4th year of Kakao Enterprise SW Academy (2024.03~)
 
 ## 🏆Career🏆
 * 11th K-Hackathon Excellence Award Winner (Development of Indoor Voice Map for the Visually Impaired)
