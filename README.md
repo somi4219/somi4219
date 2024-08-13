@@ -41,4 +41,5 @@ Tools
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![Somi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somi4219&count_private=true&show_icons=true&theme=buefy)(https://github.com/anuraghazra/github-readme-stats)
+![Somi's github stats](https://github-readme-stats-lyart-xi-84.vercel.app
+.vercel.app/api?username=somi4219&count_private=true&show_icons=true&theme=buefy)
