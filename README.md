@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Nam%20Somi)
 # Welcome 👋
 * I'm interested in Backend!
-=* I'm always learning and growing.
+* I'm always learning and growing.
 ## 🐰About me🐰
 * Department of Software Engineering, Gachon University (2021.03~)
 * The Student Council of the Software Engineering Department, Gachon University (2021.03~2023.12)
