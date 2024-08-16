@@ -41,3 +41,4 @@ Tools
 </a>
 
 ![Somi's github stats](https://github-readme-stats-lyart-xi-84.vercel.app/api?username=somi4219&count_private=true&show_icons=true&theme=buefy)
+[![코드트리|실력진단-somi4219](https://banner.codetree.ai/v1/banner/somi4219)](https://www.codetree.ai/profiles/somi4219)
