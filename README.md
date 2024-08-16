@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Nam%20Somi)
+
+📌 https://tinted-gladiolus-b73.notion.site/fd8cb0416d684b4cb2692556889d7bab#c37edad77110410e8db75b30bc97414e
+
 # Welcome 👋
 * I'm interested in Backend!
 * I'm always learning and growing.
-https://tinted-gladiolus-b73.notion.site/fd8cb0416d684b4cb2692556889d7bab#c37edad77110410e8db75b30bc97414e
 ## 🐰About me🐰
 * Department of Software Engineering, Gachon University (2021.03~)
 * The Student Council of the Software Engineering Department, Gachon University (2021.03~2023.12)
@@ -41,5 +43,5 @@ Tools
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Somi's github stats](https://github-readme-stats-lyart-xi-84.vercel.app/api?username=somi4219&count_private=true&show_icons=true&theme=buefy)
+![Somi's github stats](https://github-readme-stats-rga5.vercel.app/api?username=somi4219&count_private=true&show_icons=true&theme=buefy)
 [![코드트리|실력진단-somi4219](https://banner.codetree.ai/v1/banner/somi4219)](https://www.codetree.ai/profiles/somi4219)
